@@ -1,0 +1,18 @@
+.class_{
+    background-color: pink;
+    font-size: small;
+}
+.class_.cooler{
+    font-size: larger;
+}
+
+#first{
+    font-size: larger;
+    color: blue;
+}
+
+#second{
+    font-size: medium;
+    font-weight: bold;
+    background-color: lightgreen;
+}
